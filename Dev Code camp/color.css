@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://thumbs.dreamstime.com/b/drops-night-rain-window-abstract-background-63266853.jpg)
+}
+body{
+    background-size: 12in
+}
+body{
+    background-position-y: 0in
+}
+h1{
+    color:black;
+}
+.intro-text{
+    font-size: 20px;
+    font-style: oblique;
+    letter-spacing: 1px;
+    color: black
+    
+}
+welcome-tagline{
+    color:black;
+    font-style: oblique;
+}
+th{
+    color: black
+}
+tr{
+    color: black
+}
