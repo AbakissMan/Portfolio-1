@@ -1,0 +1,13 @@
+
+  div.dice{              
+    float: left;
+    width:32px;
+    background: grey
+    }
+div.dice{
+    border: black 1px solid;
+    padding:10px;
+    font-size: 24px;
+    text-align:center;
+    margin:5px;
+    }
